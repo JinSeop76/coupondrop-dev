@@ -1,4 +1,4 @@
-package com.JinSeop76.coupondrop;
+package com.jinseop76.coupondrop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
