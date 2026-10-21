@@ -1,0 +1,14 @@
+# <타입>: <제목> (feat|fix\test\refactor\perf\docs\chore\ci)
+
+# feat : 새 기능
+# fix : 버그 수정
+# test : 테스트 추가·수정
+# refactor : 동작은 같고 구조만 개선
+# perf : 성능 개선
+# docs : 문서
+# chore : 설정·빌드·기타
+# ci : CI 설정
+
+# 왜 이렇게 했나 / 다른 대안은 / 트레이드오프는
+
+AI:
