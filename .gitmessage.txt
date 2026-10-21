@@ -1,4 +1,4 @@
-# <타입>: <제목> (feat|fix\test\refactor\perf\docs\chore\ci)
+# <타입>: <제목> (feat|fix|test|refactor|perf|docs|chore|ci)
 
 # feat : 새 기능
 # fix : 버그 수정
