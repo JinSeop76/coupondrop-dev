@@ -1,4 +1,4 @@
-# 사이드 프로젝트 기획서 — 쿠폰 드롭(CouponDrop)
+# CoupoonDrop - 선착순 쿠폰 발급 시스템
 
 ---
 
